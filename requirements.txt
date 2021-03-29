@@ -1,4 +1,4 @@
-covid==2.1.6
+covid==2.4.0
 pyTelegramBotAPI==3.6.7
 country-converter==0.6.7
-emoji-country-flag==1.2.1
+emoji-country-flag==1.2.4

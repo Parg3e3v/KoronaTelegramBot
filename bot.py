@@ -1,4 +1,4 @@
-from covid import Covid
+from covid import Covid # 2.1.6
 import telebot
 from telebot import types
 import country_converter as coco
